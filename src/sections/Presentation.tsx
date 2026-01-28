@@ -24,22 +24,22 @@ function Presentation(){
                             voie plus technique et professionnalisante, dans mon domaine qui me tiens à coeur. J’ai ainsi été
                             admis à l'ESGI de Lyon en alternance, une école reconnue dans le domaine de l’informatique, afin de
                             poursuivre ma spécialisation dans le développement et les technologies web.</p>
-                        <a href="https://1drv.ms/b/c/d7ec73d02b734dfb/EWS3VNWp44NNqn9XbBG1568BWownetE1zLyJEB7tsLUINw?e=lP0vnN"> {"-> Télécharger mon CV <-"} </a>
+                        <a href="/cv-nicolas-dsj.pdf" target='_blank'> {"-> Télécharger mon CV <-"} </a>
                     </div>
                 </div>
             </div>
 
-            <div className="presentation-timeline">
+            <div className="presentation-timeline w-100">
                 <h2>Mon parcours</h2>
                 <MDBContainer fluid className="py-5">
                     <div className="main-timeline">
                         <div className="timeline left">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2025 - 2027</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2025 - <span className="fs-5">Nov.</span> 2025</h3>
+                                    <p className="fst-italic opacity-50">SERAM Industrie - Ambérieux</p>
                                     <p className="mb-0">
-                                        Master en informatique à ESGI Lyon spécialité - Ingénierie du web - en
-                                        alternance.
+                                        Développeur web en alternance.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -47,10 +47,10 @@ function Presentation(){
                         <div className="timeline right">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2024 - 2025</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2025 - <span className="fs-5">Sept.</span> 2027</h3>
+                                    <p className="fst-italic opacity-50">ESGI Lyon - Lyon 3e arrondissement</p>
                                     <p className="mb-0">
-                                        Master 1 Informatique à l'Université de Caen Normandie parcours - Intelligence
-                                        Artificielle et Facteurs Humains -.
+                                        Titre RNCP de niveau 7 (mastère) Ingénierie du Web en alternance.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -58,10 +58,10 @@ function Presentation(){
                         <div className="timeline left">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2023 - 2024</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2024 - <span className="fs-5">Sept.</span> 2025</h3>
+                                    <p className="fst-italic opacity-50">UFR des Sciences de l'Université de Caen Normandie - Caen</p>
                                     <p className="mb-0">
-                                        Année en alternance au sein de l'entreprise SDCI - Digicontact en tant que
-                                        développeur web full-stack.
+                                        Master 1 Informatique parcours Intelligence Artificielle et Facteurs Humains.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -69,11 +69,10 @@ function Presentation(){
                         <div className="timeline right">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2023</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2023 - <span className="fs-5">Sept.</span> 2024</h3>
+                                    <p className="fst-italic opacity-50">SDCI - Décines-Charpieu</p>
                                     <p className="mb-0">
-                                        Stage de fin de deuxième année de Bachelor Universitaire de Technologie (BUT) en
-                                        Informatique au sein de l'association
-                                        Femmes d'AURA en tant que développeur web.
+                                        Développeur full-stack en alternance.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -81,10 +80,10 @@ function Presentation(){
                         <div className="timeline left">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2021 - 2024</h3>
+                                    <h3><span className="fs-5">Avr.</span> 2023 - <span className="fs-5">Juin</span> 2023</h3>
+                                    <p className="fst-italic opacity-50">Femmes d'AURA - Lyon 9e</p>
                                     <p className="mb-0">
-                                        BUT Informatique à l'IUT Lyon 1 parcours
-                                        - Réalisation d'Applications - avec une troisième année en alternance.
+                                        Stage en développement web.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -92,10 +91,10 @@ function Presentation(){
                         <div className="timeline right">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2019 - 2021</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2021 - <span className="fs-5">Sept.</span> 2024</h3>
+                                    <p className="fst-italic opacity-50">IUT Lyon 1 - Villeurbanne</p>
                                     <p className="mb-0">
-                                        Baccalauréat STI2D spécialité - Systèmes d'Information
-                                        et Numérique - Mention Assez Bien
+                                        BUT Informatique à l'IUT Lyon 1 parcours Réalisation d'Applications.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
@@ -103,21 +102,10 @@ function Presentation(){
                         <div className="timeline left">
                             <MDBCard>
                                 <MDBCardBody className="p-4">
-                                    <h3>2018 - 2019</h3>
+                                    <h3><span className="fs-5">Sept.</span> 2019 - <span className="fs-5">Juin</span> 2021</h3>
+                                    <p className="fst-italic opacity-50">Cité scolaire de Tarare - Tarare</p>
                                     <p className="mb-0">
-                                        Spécialité Informatique et Création Numériques (ICN) en classe de seconde, qui
-                                        signe le début officiel de mon parcours.
-                                    </p>
-                                </MDBCardBody>
-                            </MDBCard>
-                        </div>
-                        <div className="timeline right">
-                            <MDBCard>
-                                <MDBCardBody className="p-4">
-                                    <h3>2018</h3>
-                                    <p className="mb-0">
-                                        Stage de découverte en classe de troisième au sein de TCL SYTRAL, afin d'avoir
-                                        une première approche du monde professionnel.
+                                        Baccalauréat STI2D spécialité Systèmes d'Information et Numérique - Mention Assez Bien.
                                     </p>
                                 </MDBCardBody>
                             </MDBCard>
