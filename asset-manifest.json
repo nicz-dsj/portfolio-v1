@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.7b567b27.css",
-    "main.js": "/portfolio-v1/static/js/main.556ac623.js",
-    "static/js/787.e2f95da9.chunk.js": "/portfolio-v1/static/js/787.e2f95da9.chunk.js",
-    "static/media/trouvetonplat.png": "/portfolio-v1/static/media/trouvetonplat.bc7d84adf9123257bf1e.png",
-    "static/media/pres.png": "/portfolio-v1/static/media/pres.07899e5f44cb3a5eea48.png",
-    "static/media/usibee.png": "/portfolio-v1/static/media/usibee.e1e8e57901632eb07c85.png",
-    "static/media/20250724_1800s51.jpg": "/portfolio-v1/static/media/20250724_1800s51.672f83f99568dcecf73e.jpg",
-    "static/media/medical.png": "/portfolio-v1/static/media/medical.cdcce4586c7feabcf74e.png",
-    "static/media/cdlv.png": "/portfolio-v1/static/media/cdlv.f7e45972031d475f1889.png",
-    "static/media/snake.png": "/portfolio-v1/static/media/snake.880be62a2ce77e71abc0.png",
-    "static/media/Mona-Sans-Light.ttf": "/portfolio-v1/static/media/Mona-Sans-Light.e8521344b4d2972798b0.ttf",
-    "static/media/Mona-Sans-SemiBold.ttf": "/portfolio-v1/static/media/Mona-Sans-SemiBold.f67328e31617fe339e45.ttf",
-    "static/media/Mona-Sans-Bold.ttf": "/portfolio-v1/static/media/Mona-Sans-Bold.2da6c3d63c75a91071fe.ttf",
-    "static/media/Mona-Sans-Black.ttf": "/portfolio-v1/static/media/Mona-Sans-Black.68aaf36a38e5c0d777a8.ttf",
-    "index.html": "/portfolio-v1/index.html",
-    "main.7b567b27.css.map": "/portfolio-v1/static/css/main.7b567b27.css.map",
-    "main.556ac623.js.map": "/portfolio-v1/static/js/main.556ac623.js.map",
-    "787.e2f95da9.chunk.js.map": "/portfolio-v1/static/js/787.e2f95da9.chunk.js.map"
+    "main.css": "/static/css/main.e4c76f1e.css",
+    "main.js": "/static/js/main.c5830b1e.js",
+    "static/js/787.e2f95da9.chunk.js": "/static/js/787.e2f95da9.chunk.js",
+    "static/media/trouvetonplat.png": "/static/media/trouvetonplat.bc7d84adf9123257bf1e.png",
+    "static/media/pres.png": "/static/media/pres.07899e5f44cb3a5eea48.png",
+    "static/media/usibee.png": "/static/media/usibee.e1e8e57901632eb07c85.png",
+    "static/media/20250724_1800s51.jpg": "/static/media/20250724_1800s51.672f83f99568dcecf73e.jpg",
+    "static/media/medical.png": "/static/media/medical.cdcce4586c7feabcf74e.png",
+    "static/media/cdlv.png": "/static/media/cdlv.f7e45972031d475f1889.png",
+    "static/media/snake.png": "/static/media/snake.880be62a2ce77e71abc0.png",
+    "static/media/Mona-Sans-Light.ttf": "/static/media/Mona-Sans-Light.e8521344b4d2972798b0.ttf",
+    "static/media/Mona-Sans-SemiBold.ttf": "/static/media/Mona-Sans-SemiBold.f67328e31617fe339e45.ttf",
+    "static/media/Mona-Sans-Bold.ttf": "/static/media/Mona-Sans-Bold.2da6c3d63c75a91071fe.ttf",
+    "static/media/Mona-Sans-Black.ttf": "/static/media/Mona-Sans-Black.68aaf36a38e5c0d777a8.ttf",
+    "index.html": "/index.html",
+    "main.e4c76f1e.css.map": "/static/css/main.e4c76f1e.css.map",
+    "main.c5830b1e.js.map": "/static/js/main.c5830b1e.js.map",
+    "787.e2f95da9.chunk.js.map": "/static/js/787.e2f95da9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b567b27.css",
-    "static/js/main.556ac623.js"
+    "static/css/main.e4c76f1e.css",
+    "static/js/main.c5830b1e.js"
   ]
 }
